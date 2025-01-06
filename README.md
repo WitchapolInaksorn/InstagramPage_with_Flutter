@@ -1,2 +1,2 @@
 # Instagram Page
-[!pic](/img/instagramPage.png)
+(/img/instagramPage.png)
